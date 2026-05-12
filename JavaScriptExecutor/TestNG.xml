@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="mySuite">
+<test name="myTest">
+<classes>
+<class name="org.eva.vtiger.webPage.LoginPage"></class>
+
+</classes>
+</test>
+</suite>
+
+
+
